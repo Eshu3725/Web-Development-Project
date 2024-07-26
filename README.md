@@ -1,1 +1,1 @@
-# Web-Development-Project
+# Web development project of a shopping web site
